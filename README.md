@@ -10,7 +10,9 @@ Repositório para armazenar Resumos sobre Git e GitHub do Curso Versionamento de
 ## 💻 Resumo das Aulas
 | Aulas | Resumo
 |-------|----------|
-| Salvando Alterações no Repositório Local | [Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/potencia-tech-ifood-desenvolvimento-de-jogos&tab=undefined&moduleId=undefined) |
+|Aula 01 [Resumo] ()
+| Aula 02 [Resumo]()
+ Salvando Alterações no Repositório Local | [Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/potencia-tech-ifood-desenvolvimento-de-jogos&tab=undefined&moduleId=undefined) |
 
 ```
  git init
